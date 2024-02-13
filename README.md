@@ -1,2 +1,2 @@
 # Coding-Test
-Study space for coding test
+Record of coding test study
